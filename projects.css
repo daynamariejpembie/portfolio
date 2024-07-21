@@ -1,0 +1,15 @@
+* {
+    background-color: black;
+    color: white;
+    font-family: Garamond;
+    font-weight:bold;
+}
+.grids button {
+    padding: 20px;
+    border: 2px solid white;
+    font-family:
+}
+.grids{
+    justify-items: center;
+    display: grid;
+}
